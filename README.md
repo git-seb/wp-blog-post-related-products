@@ -26,9 +26,11 @@ Yes, you can customize the slider styles by adding custom CSS to your theme.
 ## Screenshots
 
 1. Meta box for selecting related products in the post editor.
+
 ![image](https://github.com/user-attachments/assets/cb6a5c8a-f023-4dec-9b57-08f960bbc7e1)
 
 2. Related products slider displayed below the post content.
+
 ![image](https://github.com/user-attachments/assets/7ab6ceeb-fc9b-4f45-be96-1766fd051247)
 
 
