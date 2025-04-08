@@ -1,4 +1,4 @@
-# Blog Post Related Products
+# Blog Post Related Products for WordPress
 
 Allows selection of related WooCommerce products for blog posts and displays them in a slider on the front-end.
 
