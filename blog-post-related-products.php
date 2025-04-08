@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Blog Post Related Products
  * Description: Allows selection of related WooCommerce products for blog posts and displays them in a slider on the front-end.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: seb-dev
  * Requires PHP: 8.0
  * Requires at least: 6.7
