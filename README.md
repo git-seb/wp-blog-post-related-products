@@ -4,24 +4,22 @@ Allows selection of related WooCommerce products for blog posts and displays the
 
 ## Description
 
-This plugin allows you to select related WooCommerce products for your blog posts and display them in a slider on the front-end. You can easily add products through a meta box in the post editor, and the selected products will be shown in a responsive slider below the post content.
+This plugin allows you to select related WooCommerce products for blog posts and display them in a slider on the front-end. It adds a meta box to the post editing screen where you can select products to associate with the post.
 
 ## Installation
 
-1. Upload the `blog-post-related-products` folder to the `/wp-content/plugins/` directory or use the plugin upload feature in the WordPress admin.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Edit a blog post and select related products using the meta box on the right side.
-4. View the post on the front-end to see the related products slider.
+1. Upload the plugin files to the `/wp-content/plugins/blog-post-related-products` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress.
+3. Go to the post editing screen and select related products using the meta box provided.
 
-## Frequently Asked Questions
+## Changelog
 
-### How do I select related products for a blog post?
+### 1.0.1
+* Fix so the selector field shows up in the post-box section instead of sidebar.
+* Fixed double `<div class="inside">` issue in meta box.
 
-Edit the blog post, and you will see the "Related Products" meta box on the right side. Use the product search field to select products.
-
-### Can I customize the appearance of the slider?
-
-Yes, you can customize the slider styles by adding custom CSS to your theme.
+### 1.0.0
+* Initial release: select and display related WooCommerce products on blog posts using Swiper.js.
 
 ## Screenshots
 
@@ -32,13 +30,6 @@ Yes, you can customize the slider styles by adding custom CSS to your theme.
 2. Related products slider displayed below the post content.
 
 ![image](https://github.com/user-attachments/assets/7ab6ceeb-fc9b-4f45-be96-1766fd051247)
-
-
-## Changelog
-
-### 1.0.0
-
-* Initial release: select and display related WooCommerce products on blog posts using Swiper.js.
 
 ## Support
 
