@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Post Related Products 1.0.0\n"
+"POT-Creation-Date: 2025-04-08 07:56+0000\n"
+"PO-Revision-Date: 2025-04-08 07:56+0000\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: blog-post-related-products.php:49
+msgid "Related Products"
+msgstr ""
+
+#: blog-post-related-products.php:79
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: blog-post-related-products.php:90
+msgid "Select related WooCommerce products to display with this post."
+msgstr ""
+
+#: blog-post-related-products.php:130
+msgid "Related Products"
+msgstr ""
